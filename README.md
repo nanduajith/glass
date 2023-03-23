@@ -1,2 +1,2 @@
 # Glass
-FastAPI server generator
+An openionated python web framework
