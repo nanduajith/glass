@@ -1,2 +1,2 @@
 # Glass
-An openionated python web framework
+An opinionated python web framework
